@@ -1,0 +1,19 @@
+{
+  "name": "myarrayfunc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConstantinLo/Project_B4.5.1.git"
+  },
+  "author": "Konstantin Lozhkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConstantinLo/Project_B4.5.1/issues"
+  },
+  "homepage": "https://github.com/ConstantinLo/Project_B4.5.1#readme"
+}
